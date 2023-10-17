@@ -1,4 +1,5 @@
-Swimming-Club-Management-System
+#Swimming-Club-Management-System
+
 This is a desktop project developed in WPF. The program is very useful for swimming club and increases the efficiency of work.
 
 Dashboard page
